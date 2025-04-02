@@ -31,7 +31,7 @@ const Footer = () => {
             color: "#9e9e9e",
           }}
         >
-          <p style={{ margin: 0 }}>Created by Ganesh Ghadge</p>
+          <p style={{ margin: 0 }}>Created by Keshav Sharma</p>
           <p style={{ margin: 0 }}>© 2023 MetaCrypto.</p>
         </div>
       </div>
