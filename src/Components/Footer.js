@@ -32,7 +32,7 @@ const Footer = () => {
           }}
         >
           <p style={{ margin: 0 }}>Created by Keshav Sharma</p>
-          <p style={{ margin: 0 }}>© 2023 MetaCrypto.</p>
+          <p style={{ margin: 0 }}>© 2025 MetaCrypto.</p>
         </div>
       </div>
     </>
